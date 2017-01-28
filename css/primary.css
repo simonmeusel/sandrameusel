@@ -11,6 +11,15 @@
     cursor: default;
 }
 
+.bottom {
+    position: relative;
+}
+
+.bottom h2 {
+    position: absolute;
+    bottom: 0;
+}
+
 .pulse {
     color: #333;
     padding: 10px;
