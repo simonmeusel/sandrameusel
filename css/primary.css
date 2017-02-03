@@ -11,13 +11,13 @@
     cursor: default;
 }
 
-.bottom {
-    position: relative;
+ul.focus {
+    list-style: none;
+    padding: 0 8px;
 }
-
-.bottom h2 {
-    position: absolute;
-    bottom: 0;
+ul.focus li {
+    font-size: 120%;
+    line-height: 200%;
 }
 
 .pulse {
